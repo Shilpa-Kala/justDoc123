@@ -25,6 +25,7 @@ The portal unifies these data streams into a single, queryable health matrix das
 | [API Layer & Data Model](./docs/api-layer) | Backend REST/GraphQL API design and canonical data model |
 | [Frontend Portal](./docs/frontend) | Dashboard UI design, component breakdown, and UX flows |
 | [Deployment & Infrastructure](./docs/deployment) | Kubernetes deployment topology, scaling, and observability |
+| [Architecture Diagrams](./docs/diagrams) | Mermaid visual diagrams for all layers (C4, sequence, flow, state) |
 
 ---
 
