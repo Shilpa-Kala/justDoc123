@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Health Matrix Portal – Architecture
+description: Architecture design for a portal that aggregates health matrix data from DevLake and Metron.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  DevLake Docs: https://devlake.apache.org/docs/
+  Apache Metron: https://metron.apache.org/
+
+# Navigation order for the architecture sections
+nav_sort: case_insensitive
+
+# Enable search
+search_enabled: true
+
+# Footer content
+footer_content: "Health Matrix Portal Architecture &copy; 2026"
