@@ -1,0 +1,138 @@
+{
+  "title": "Digital Transformation Strategy",
+  "subtitle": "Executive Summary — Q2 2024",
+  "theme": "corporate",
+  "slides": [
+    {
+      "type": "title",
+      "title": "Digital Transformation Strategy",
+      "subtitle": "Executive Summary — Q2 2024"
+    },
+    {
+      "type": "agenda",
+      "title": "Agenda",
+      "items": [
+        "Business Context & Challenges",
+        "Strategic Objectives",
+        "Transformation Roadmap",
+        "Key Metrics & KPIs",
+        "Investment & ROI",
+        "Next Steps"
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Business Context & Challenges",
+      "bullets": [
+        "Legacy systems causing 40% productivity loss",
+        "Customer satisfaction scores declining YoY",
+        "Competitors shipping features 3× faster",
+        "Manual processes increasing operational costs",
+        "Data silos preventing informed decision-making"
+      ],
+      "speaker_notes": "Set the stage: these are the pain points driving the transformation. Use specific numbers to anchor the conversation."
+    },
+    {
+      "type": "stats",
+      "title": "Current State — Key Metrics",
+      "stats": [
+        {"label": "Productivity Loss", "value": "40%", "description": "Due to legacy system overhead"},
+        {"label": "Customer NPS", "value": "32", "description": "Down from 58 two years ago"},
+        {"label": "Time to Market", "value": "18 wks", "description": "vs. 6 wks for competitors"},
+        {"label": "Manual Processes", "value": "67%", "description": "Of workflows still manual"}
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Strategic Objectives",
+      "bullets": [
+        "Modernize core platform to cloud-native architecture",
+        "Automate 80% of manual workflows by end of year",
+        "Improve time-to-market by 60% within 18 months",
+        "Unify data across all business units into single platform",
+        "Elevate customer NPS from 32 to 65+ within 2 years"
+      ],
+      "speaker_notes": "These objectives map directly to the challenges. Each one is measurable and time-bound."
+    },
+    {
+      "type": "diagram",
+      "title": "Transformation Roadmap",
+      "diagram_type": "timeline",
+      "description": "4-phase rollout over 18 months",
+      "data": {
+        "events": [
+          {"date": "Q1 2024", "event": "Foundation & Assessment"},
+          {"date": "Q2 2024", "event": "Platform Migration"},
+          {"date": "Q3 2024", "event": "Automation Rollout"},
+          {"date": "Q4 2024", "event": "Data Unification"},
+          {"date": "Q1 2025", "event": "Scale & Optimize"}
+        ]
+      },
+      "speaker_notes": "Walk through each phase. Emphasize that phases overlap to accelerate delivery."
+    },
+    {
+      "type": "diagram",
+      "title": "Implementation Process",
+      "diagram_type": "flowchart",
+      "description": "5-step delivery process",
+      "data": {
+        "steps": [
+          "1. Discovery & Architecture Design",
+          "2. Infrastructure Provisioning",
+          "3. Application Migration",
+          "4. Integration & Testing",
+          "5. Go-Live & Hypercare"
+        ]
+      },
+      "speaker_notes": "Each step has defined entry/exit criteria and an assigned workstream owner."
+    },
+    {
+      "type": "diagram",
+      "title": "Investment Allocation",
+      "diagram_type": "pie",
+      "description": "Budget breakdown by area",
+      "data": {
+        "labels": ["Platform & Infra", "Automation", "Data & Analytics", "Change Management", "Training"],
+        "values": [38, 27, 20, 10, 5]
+      },
+      "speaker_notes": "Infrastructure and automation take the lion's share. Change management investment is critical and often underfunded."
+    },
+    {
+      "type": "diagram",
+      "title": "Projected ROI — 3-Year Forecast",
+      "diagram_type": "bar",
+      "description": "Cost savings vs. investment over 3 years",
+      "data": {
+        "categories": ["Year 1", "Year 2", "Year 3"],
+        "series": [
+          {"name": "Investment ($K)", "values": [850, 320, 180]},
+          {"name": "Savings ($K)",    "values": [210, 680, 1240]}
+        ]
+      },
+      "speaker_notes": "Payback period is approximately 22 months. Year 3 delivers 6:1 return on initial investment."
+    },
+    {
+      "type": "quote",
+      "title": "Executive Perspective",
+      "quote": "Digital transformation is not about technology — it is about reimagining your business model for the next decade.",
+      "attribution": "CEO, Annual Strategy Review 2024"
+    },
+    {
+      "type": "summary",
+      "title": "Key Takeaways",
+      "bullets": [
+        "Current state is unsustainable — action required now",
+        "Clear 5-objective strategy with measurable outcomes",
+        "18-month phased roadmap reduces delivery risk",
+        "22-month payback with 6:1 ROI by Year 3",
+        "Change management is foundational — not optional"
+      ]
+    },
+    {
+      "type": "closing",
+      "title": "Thank You",
+      "subtitle": "Questions & Discussion",
+      "contact": "strategy@company.com"
+    }
+  ]
+}
